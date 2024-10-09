@@ -4,4 +4,4 @@ CTF Challenge
 
 The flag is hidden somewhere in this repository. Are you capable enough to find it?
 
-Flag Format: FLAG{FLAG_CONTENT}
+Flag Format: DJSISACA{FLAG_CONTENT}
